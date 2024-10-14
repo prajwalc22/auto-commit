@@ -1,3 +1,5 @@
-#Auto Commit.
+# AutoCommit
 
-##A simple script that commits a contribution to github when executed.
+A simple script that commits contributions to github  when executed.
+
+
